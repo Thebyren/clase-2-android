@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">clase 2 android</string>
+    <string name="btnCrearDb">Crear db</string>
+    <string name="btnAbrirContactos">Abrir contactos</string>
+</resources>
