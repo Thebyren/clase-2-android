@@ -12,17 +12,19 @@
         android:layout_height="729dp"
         android:orientation="vertical"
         tools:layout_editor_absoluteX="1dp"
-        tools:layout_editor_absoluteY="1dp">
+        tools:layout_editor_absoluteY="1dp"
+        tools:ignore="MissingConstraints">
 
         <Button
             android:id="@+id/btnCrearDb"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:text="@string/btnCrearDb" />
 
         <Button
             android:id="@+id/btnAbrirContactos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button" />
+            android:text="@string/btnAbrirContactos" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

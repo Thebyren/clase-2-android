@@ -1,5 +1,16 @@
 <resources>
-    <string name="app_name">clase 2 android</string>
-    <string name="btnCrearDb">Crear db</string>
-    <string name="btnAbrirContactos">Abrir contactos</string>
+    <string name="app_name" translatable="false">clase 2 android</string>
+    <string name="btnCrearDb" translatable="false">Crear db</string>
+    <string name="btnAbrirContactos" translatable="false">Abrir contactos</string>
+
+
+    <string name="txtPhone">Telefono</string>
+    <string name="txtMail">Mail</string>
+    <string name="txtName">Nombre</string>
+
+    <string name="btnSave">Guardar</string>
+    <string name="btnReturn">Volver</string>
+    <string name="txtHintMail">Correo Electrónico</string>
+    <string name="txtHintPhone">Teléfono</string>
+
 </resources>
